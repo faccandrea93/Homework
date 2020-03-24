@@ -1,0 +1,1 @@
+countchars.o: ../countchars.c
